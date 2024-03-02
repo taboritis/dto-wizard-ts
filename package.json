@@ -1,0 +1,22 @@
+{
+  "name": "dto-wizard-ts",
+  "version": "0.0.1",
+  "description": "DTO converter for nested data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taboritis/dto-wizard-ts.git"
+  },
+  "keywords": [
+    "DTO"
+  ],
+  "author": "Piotr Skrobol <taboritis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taboritis/dto-wizard-ts/issues"
+  },
+  "homepage": "https://github.com/taboritis/dto-wizard-ts#readme"
+}
